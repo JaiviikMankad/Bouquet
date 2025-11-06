@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #ffe4ec;
+  color: #d63384;
+  overflow: hidden;
+}
+
+.landing,
+.bouquet,
+.message-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.landing h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+button {
+  background: #ff4da6;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.6rem;
+  border-radius: 25px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #ff66b2;
+}
+
+.flower {
+  position: absolute;
+  font-size: 3rem;
+}
+
+.card {
+  background: white;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(255, 0, 100, 0.2);
+  max-width: 350px;
+}
+
