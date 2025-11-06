@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bouquet/static/css/main.fe94ba50.css",
+    "main.js": "/Bouquet/static/js/main.7b60fb44.js",
+    "static/js/453.78aba92b.chunk.js": "/Bouquet/static/js/453.78aba92b.chunk.js",
+    "index.html": "/Bouquet/index.html",
+    "main.fe94ba50.css.map": "/Bouquet/static/css/main.fe94ba50.css.map",
+    "main.7b60fb44.js.map": "/Bouquet/static/js/main.7b60fb44.js.map",
+    "453.78aba92b.chunk.js.map": "/Bouquet/static/js/453.78aba92b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe94ba50.css",
+    "static/js/main.7b60fb44.js"
+  ]
+}
